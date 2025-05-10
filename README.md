@@ -4,7 +4,7 @@
 
 ### 🛠️ My Steck
 
-<div align="center">
+<div>
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,19 +25,31 @@
 
 <hr />
 
+### 🎓 Education
+
 <table>
   <tr>
-    <th>Учебное заведение</th>
-    <th>Годы обучения</th>
+    <th>Educational Institution</th>
+    <th>Period of Study</th>
   </tr>
   <tr>
-    <td>Национальный технический университет Украины<br/>"КПИ им. Игоря Сикорского"</td>
-    <td>2017 — 2021</td>
+    <td><a href="https://vfu.bg/en/">Free Varna University — Computer Science</a></td>
+    <td>2020 / 2024</td>
   </tr>
   <tr>
-    <td>Курсы по фронтенду (Udemy, курс от Dr. Angela Yu)</td>
+    <td><a href="https://nure.ua/en/">ХНУРЭ (Ukraine) — IT Fundamentals & Systems</a></td>
+    <td>2019 / 2020</td>
+  </tr>
+  <tr>
+    <td><a href="https://sky.pro/">SkyPro — Web Development & Design</a></td>
     <td>2022</td>
   </tr>
+  <tr>
+    <td><a href="https://netology.ru/">Netology.ru — Frontend / UI / Git / JS-base</a></td>
+    <td>2021 / 2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://netology.ru/">Netology.ru — JavaScript and Frameworks</a></td>
+    <td>2023 / Present</td>
+  </tr>
 </table>
-
-
