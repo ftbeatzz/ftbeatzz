@@ -9,7 +9,7 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 - 🧠 4+ years of experience in frontend development
 - 🤝 Worked both independently and in cross-functional teams
-- 🛠 Focus: JavaScript / React / SCSS / Figma / TypeScript 
+- 🛠 Focus: JavaScript / React / SCSS / TypeScript / Figma 
 - ⚡ Fast builds with Vite & clean architecture
 - 🎯 Goal: merge code & design into seamless UX
 - 🧩 Hobby: GitHub, animations, aesthetic UIs 
@@ -49,23 +49,23 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
     <th>Period of Study</th>
   </tr>
   <tr>
-    <td><a href="https://netology.ru/">Netology.ru — JavaScript and Frameworks</a></td>
+    <td><a href="https://netology.ru/" target="_blank" rel="noopener noreferrer">Netology.ru — JavaScript and Frameworks</a></td>
     <td>2023 / Present</td>
   </tr>
   <tr>
-    <td><a href="https://vfu.bg/en/">Free Varna University — Computer Science</a></td>
+    <td><a href="https://vfu.bg/en/" target="_blank" rel="noopener noreferrer">Free Varna University — Computer Science</a></td>
     <td>2020 / 2024</td>
   </tr>
   <tr>
-    <td><a href="https://sky.pro/">SkyPro — Web Development & Design</a></td>
+    <td><a href="https://sky.pro/" target="_blank" rel="noopener noreferrer">SkyPro — Web Development & Design</a></td>
     <td>2022</td>
   </tr>
   <tr>
-    <td><a href="https://netology.ru/">Netology.ru — Frontend / UI / Git / JS-base</a></td>
+    <td><a href="https://netology.ru/" target="_blank" rel="noopener noreferrer">Netology.ru — Frontend / UI / Git / JS-base</a></td>
     <td>2021 / 2023</td>
   </tr>
   <tr>
-    <td><a href="https://nure.ua/en/">ХНУРЭ (Ukraine) — IT Fundamentals & Systems</a></td>
+    <td><a href="https://nure.ua/en/" target="_blank" rel="noopener noreferrer">ХНУРЭ (Ukraine) — IT Fundamentals & Systems</a></td>
     <td>2019 / 2020</td>
   </tr>
 </table>
@@ -74,8 +74,15 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 ### 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-ftbeatzz.vercel.app/api?username=ftbeatzz&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-ftbeatzz.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftbeatzz&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 <hr/>
