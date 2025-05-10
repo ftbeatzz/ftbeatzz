@@ -33,12 +33,12 @@
     <th>Period of Study</th>
   </tr>
   <tr>
-    <td><a href="https://vfu.bg/en/">Free Varna University — Computer Science</a></td>
-    <td>2020 / 2024</td>
+    <td><a href="https://netology.ru/">Netology.ru — JavaScript and Frameworks</a></td>
+    <td>2023 / Present</td>
   </tr>
   <tr>
-    <td><a href="https://nure.ua/en/">ХНУРЭ (Ukraine) — IT Fundamentals & Systems</a></td>
-    <td>2019 / 2020</td>
+    <td><a href="https://vfu.bg/en/">Free Varna University — Computer Science</a></td>
+    <td>2020 / 2024</td>
   </tr>
   <tr>
     <td><a href="https://sky.pro/">SkyPro — Web Development & Design</a></td>
@@ -49,7 +49,19 @@
     <td>2021 / 2023</td>
   </tr>
   <tr>
-    <td><a href="https://netology.ru/">Netology.ru — JavaScript and Frameworks</a></td>
-    <td>2023 / Present</td>
+    <td><a href="https://nure.ua/en/">ХНУРЭ (Ukraine) — IT Fundamentals & Systems</a></td>
+    <td>2019 / 2020</td>
   </tr>
 </table>
+
+<hr />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ftbeatzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftbeatzz&theme=tokyonight" alt="GitHub Streak" />
+</div>
