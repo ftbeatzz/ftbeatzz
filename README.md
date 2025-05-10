@@ -2,6 +2,22 @@
 
 <img src="https://raw.githubusercontent.com/ftbeatzz/ftbeatzz/main/assets/github-snake.svg" alt="GitHub Snake Animation" width="100%" />
 
+### 🙋‍♂️ About Me
+
+Hi! I’m **Artem**, a frontend developer with a designer’s heart 💙  
+I build things that **look great** and **run fast**. Code is my tool, interfaces are my language.
+
+- 🧠 4+ years of experience in frontend development
+- 🤝 Worked both independently and in cross-functional teams
+- 🛠 Focus: JavaScript / React / SCSS / Figma / TypeScript 
+- ⚡ Fast builds with Vite & clean architecture
+- 🎯 Goal: merge code & design into seamless UX
+- 🧩 Hobby: GitHub, animations, aesthetic UIs 
+
+> “Good code is invisible. Good design feels inevitable.”
+
+<hr/>
+
 ### 🛠️ My Steck
 
 <div>
@@ -58,4 +74,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://fake-contributions.vercel.app/graph?theme=github" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<hr/>
