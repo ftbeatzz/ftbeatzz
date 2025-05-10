@@ -9,10 +9,10 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 - 🧠 4+ years of experience in frontend development
 - 🤝 Worked both independently and in cross-functional teams
-- 🛠 Focus: JavaScript / React / SCSS / TypeScript / Figma 
+- 🛠 Focus: JavaScript / React / SCSS / TypeScript / Figma
 - ⚡ Fast builds with Vite & clean architecture
 - 🎯 Goal: merge code & design into seamless UX
-- 🧩 Hobby: GitHub, animations, aesthetic UIs 
+- 🧩 Hobby: GitHub, animations, aesthetic UIs
 
 > “Good code is invisible. Good design feels inevitable.”
 
@@ -74,10 +74,9 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 ### 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats-phi-hazel-36.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-
+<img 
+    src="https://github-readme-stats-phi-hazel-36.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight&cache_seconds=60" 
+    alt="Top Languages" 
+  />
 
 <hr/>
