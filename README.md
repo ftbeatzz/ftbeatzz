@@ -74,15 +74,12 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats-ftbeatzz.vercel.app/api?username=ftbeatzz&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-phi-hazel-36.vercel.app/api?username=ftbeatzz&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-ftbeatzz.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftbeatzz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-phi-hazel-36.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+
 
 
 <hr/>
