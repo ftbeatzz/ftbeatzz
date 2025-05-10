@@ -58,10 +58,4 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ftbeatzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftbeatzz&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftbeatzz&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<img src="https://fake-contributions.vercel.app/graph?theme=github" />
