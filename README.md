@@ -16,6 +16,18 @@ I build things that **look great** and **run fast**. Code is my tool, interfaces
 
 > “Good code is invisible. Good design feels inevitable.”
 
+### 📬 Contact Me
+
+<div>
+  <a href="https://t.me/notmaintg" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <br/>
+  <a href="https://discord.com/users/ftbeatzz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
+
 <hr/>
 
 ### 🛠️ My Steck
